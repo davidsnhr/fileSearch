@@ -1,0 +1,3 @@
+/Users/davidsanchez/CLionProjects/fileSearch/cmake-build-debug/CMakeFiles/fileSearch.dir
+/Users/davidsanchez/CLionProjects/fileSearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidsanchez/CLionProjects/fileSearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
